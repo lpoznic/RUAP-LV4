@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\LV4 RUAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaPostojeEgKorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\UntitledTestCase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaIAUriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\Navigacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\LoginShopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B74E74-9F32-44ED-A2B7-E6BED469068F}|LV4 RUAP\\LV4 RUAP.csproj|c:\\users\\student\\source\\repos\\lv4 ruap\\lv4 ruap\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B74E74-9F32-44ED-A2B7-E6BED469068F}|LV4 RUAP\\LV4 RUAP.csproj|solutionrelative:lv4 ruap\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UntitledTestCase.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\UntitledTestCase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\UntitledTestCase.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\UntitledTestCase.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\UntitledTestCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:37:39.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrijavaPostojeEgKorisnika.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaPostojeEgKorisnika.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaPostojeEgKorisnika.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaPostojeEgKorisnika.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaPostojeEgKorisnika.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:37:39.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrijavaIAUriranje.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaIAUriranje.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaIAUriranje.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaIAUriranje.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\PrijavaIAUriranje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:37:39.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navigacija.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\Navigacija.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\Navigacija.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\Navigacija.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\Navigacija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:37:39.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginShopping.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\LoginShopping.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\LoginShopping.cs",
+              "ToolTip": "C:\\Users\\student\\Downloads\\KR-exported\\UntitledTestSuite\\LoginShopping.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\KR-exported\\UntitledTestSuite\\LoginShopping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:37:39.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\LV4 RUAP\\LV4 RUAP\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LV4 RUAP\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\LV4 RUAP\\LV4 RUAP\\UnitTest1.cs",
+              "RelativeToolTip": "LV4 RUAP\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:33:18.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
